@@ -14,7 +14,11 @@
 
 <img width="1433" height="722" alt="Hiring Overview" src="https://github.com/user-attachments/assets/ea417c5b-df3f-4c7f-b62f-51eb74867cb8" />
 
+
+
 <img width="1311" height="743" alt="deep dive analysis" src="https://github.com/user-attachments/assets/4623b429-b149-4b31-8ac2-6d92b969017a" />
+
+
 
 <img width="1336" height="755" alt="System Alerts monitor" src="https://github.com/user-attachments/assets/74e10841-e01b-4c0c-a032-7cbe7a7f2a0b" />
 
