@@ -5,7 +5,7 @@ import pandas as pd
 
 print("\n====RUNNING SYSTEM ====")
 
-conn=sqlite3.connect("jobss.db")
+conn=sqlite3.connect("data/jobss.db")
 print("\n===Running Pipeline ===")
 pipeline.run_pipeline(conn)
 
