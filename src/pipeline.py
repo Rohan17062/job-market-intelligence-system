@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 def run_pipeline(conn):
 
-    df = pd.read_csv('jobs_incoming.csv')
+    df = pd.read_csv('data/jobs_incoming.csv')
 
     if df.empty:
         print("No data in incoming file")
